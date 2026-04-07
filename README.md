@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahi Soni
 
-<!--
-**sonimahi11107-creator/sonimahi11107-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computer Science Student
+💻 Java & Web Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🌱 Currently learning Backend Development & DSA
+* 📱 Building Android & Web Applications
+* 🎯 Goal: Become a skilled Software Developer
+
+---
+
+## 🛠️ Skills
+
+* Languages: Java, HTML, CSS, JavaScript
+* Tools: Git, GitHub, Android Studio, VS Code
+* Concepts: OOP, Basic Programming
+
+---
+
+## 📌 Projects
+
+### 🔹 Career Counseling Web App
+
+A web application that helps students choose the right career path based on their interests and skills.
+
+### 🔹 Make My Career (Android App)
+
+An Android app that provides personalized career guidance.
+
+### 🔹 Smart Seva
+
+An Android app connecting NGOs and volunteers for real-time help.
+
+### 🔹 Student Management System
+
+A Java-based console app to manage student records.
+
+---
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Backend Development
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: sonimahi11107@gmail.com
+* 💼 LinkedIn: (Add your link here)
+
+---
+
+⭐ *Learning step by step and building consistently*
