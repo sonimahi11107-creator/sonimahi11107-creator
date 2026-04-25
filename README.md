@@ -51,7 +51,7 @@ A Java-based console app to manage student records.
 ## 📫 Connect With Me
 
 * 📧 Email: sonimahi11107@gmail.com
-* 💼 LinkedIn: (Add your link here)
+* 💼 LinkedIn: www.linkedin.com/in/mahi-soni-
 
 ---
 
